@@ -1,0 +1,14 @@
+{
+  "name": "pwa-example",
+  "version": "0.0.1",
+  "description": "progressive web apps example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "ken",
+  "license": "MIT"
+}
